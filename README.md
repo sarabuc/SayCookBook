@@ -18,11 +18,11 @@ kobe: who are you?
 
 
 הפרויקט שלנו מפותח במסגרת קורס הנדסת תכנה מכללת עזריאלי
- [תוכן הקורס1][תוכן הקורס]
+ [תוכן הקורס][slides0] 
 
 
 
 
 
 <!-- links go here -->
-[1תוכן הקורס]:https://github.com/jce-il/se-class-materials
+[slides0]:https://github.com/jce-il/se-class-materials
