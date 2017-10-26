@@ -14,3 +14,15 @@
 links of our project
 
 kobe: who are you?
+
+
+
+הפרויקט שלנו מפותח במסגרת קורס הנדסת תכנה מכללת עזריאלי
+ [תוכן הקורס1][תוכן הקורס]
+
+
+
+
+
+<!-- links go here -->
+[1תוכן הקורס]:https://github.com/jce-il/se-class-materials
