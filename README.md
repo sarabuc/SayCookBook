@@ -13,8 +13,6 @@
 
 links of our project
 
-kobe: who are you?
-
 
 
 הפרויקט שלנו מפותח במסגרת קורס הנדסת תכנה מכללת עזריאלי
