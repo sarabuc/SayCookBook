@@ -22,7 +22,7 @@ kobe: who are you?
  [תוכן הקורס][slides0] 
 
 
--[מידע למשתמש][slides1] 
+-[User Manual][userManualLink] 
 
 
 -[Team][teamLink] 
@@ -36,3 +36,4 @@ kobe: who are you?
 <!-- links go here -->
 [slides0]:https://github.com/jce-il/se-class-materials
 [teamLink]:https://github.com/sarabuc/SayCookBook/wiki/Team
+[userManualLink]:https://github.com/sarabuc/SayCookBook/wiki/User-Manual
