@@ -31,6 +31,8 @@
 -[our planning][planning]
 
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jce-il/SayCookBook)
+
 -[עוד על הפרוייקט][report]
 
 
