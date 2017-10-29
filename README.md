@@ -28,6 +28,9 @@
 -[הצעת פרוייקט][slides3]
 
 
+-[our planning][planning]
+
+
 -[עוד על הפרוייקט][report]
 
 
@@ -41,3 +44,4 @@
 [slides3]:https://docs.google.com/presentation/d/17U3g7VM-Vy3PTh3-c0nINm0Vazk34uqlvkU23dCqSSM
 [logo]:https://drive.google.com/open?id=0ByHOqcCCD6PGRmNHS0ZXUHNieVE
 [report]:https://docs.google.com/document/d/11GPibf9tU2k6JE-L0ewWUYaHQml9c8q_3oMHle6PNQU
+[planning]:https://github.com/sarabuc/SayCookBook/wiki/planning
