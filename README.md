@@ -37,8 +37,7 @@
 
 
   -[our planning][planning]
-  
-[SRS - requirements]:https://github.com/sarabuc/SayCookBook/wiki/SRS---requirements
+[SRS - requirements]:[srs]
 
 
 
@@ -57,3 +56,4 @@
 [report]:https://docs.google.com/document/d/11GPibf9tU2k6JE-L0ewWUYaHQml9c8q_3oMHle6PNQU
 [planning]:https://github.com/sarabuc/SayCookBook/wiki/planning
 [link]:https://github.com/sarabuc/SayCookBook/issues
+[srs]:https://github.com/sarabuc/SayCookBook/wiki/SRS---requirements
