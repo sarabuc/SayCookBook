@@ -21,8 +21,6 @@
 [מערכת ניהול משימות][link]
 
 
-[הצעת פרוייקט][slides3]
-
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jce-il/SayCookBook)
 
