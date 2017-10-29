@@ -13,7 +13,7 @@
 
 links of our project
 
-kobe: who are you?
+
 
 
 
@@ -37,3 +37,4 @@ kobe: who are you?
 [slides0]:https://github.com/jce-il/se-class-materials
 [teamLink]:https://github.com/sarabuc/SayCookBook/wiki/Team
 [userManualLink]:https://github.com/sarabuc/SayCookBook/wiki/User-Manual
+[slides3]:
