@@ -20,6 +20,9 @@
 
 הפרויקט שלנו מפותח במסגרת קורס הנדסת תכנה מכללת עזריאלי
  [תוכן הקורס][slides0] 
+ 
+ 
+ [הלוגו שלנו][logo] 
 
 
 -[User Manual][userManualLink] 
@@ -38,3 +41,4 @@
 [teamLink]:https://github.com/sarabuc/SayCookBook/wiki/Team
 [userManualLink]:https://github.com/sarabuc/SayCookBook/wiki/User-Manual
 [slides3]:https://docs.google.com/presentation/d/17U3g7VM-Vy3PTh3-c0nINm0Vazk34uqlvkU23dCqSSM
+[logo] :https://drive.google.com/open?id=0ByHOqcCCD6PGRmNHS0ZXUHNieVE
