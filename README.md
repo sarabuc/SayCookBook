@@ -16,16 +16,19 @@
 
 
  
- -[הלוגו שלנו][logo] 
+ [הלוגו שלנו][logo] 
+
+
+[מערכת ניהול משימות][link]
+
+
+[הצעת פרוייקט][slides3]
 
 
 -[User Manual][userManualLink] 
 
 
 -[Team][teamLink] 
-
-
--[הצעת פרוייקט][slides3]
 
 
 -[our planning][planning]
@@ -47,3 +50,4 @@
 [logo]:https://drive.google.com/open?id=0ByHOqcCCD6PGRmNHS0ZXUHNieVE
 [report]:https://docs.google.com/document/d/11GPibf9tU2k6JE-L0ewWUYaHQml9c8q_3oMHle6PNQU
 [planning]:https://github.com/sarabuc/SayCookBook/wiki/planning
+[link]:https://github.com/sarabuc/SayCookBook/issues
