@@ -11,7 +11,7 @@
 והנה נדע איך להתקדם הלאה
 
 
-links of our project
+###links of our project
 
 
 
@@ -37,4 +37,4 @@ links of our project
 [slides0]:https://github.com/jce-il/se-class-materials
 [teamLink]:https://github.com/sarabuc/SayCookBook/wiki/Team
 [userManualLink]:https://github.com/sarabuc/SayCookBook/wiki/User-Manual
-[slides3]:
+[slides3]:https://docs.google.com/presentation/d/17U3g7VM-Vy3PTh3-c0nINm0Vazk34uqlvkU23dCqSSM
