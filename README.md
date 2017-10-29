@@ -1,4 +1,7 @@
 # SayCookBook
+
+![logo1](https://github.com/sarabuc/SayCookBook/blob/master/Say%20CookBook%20logo.png)
+
 התאבון שלנו הוא לפתח לכם אפליקציה שתעורר לכם את התאבון ותרוצו להכין את המתכון
 
 
@@ -13,10 +16,6 @@
 
 #---links of our project---
 
-
-
- 
- [הלוגו שלנו][logo] 
 
 
 [מערכת ניהול משימות][link]
@@ -51,7 +50,7 @@
 [teamLink]:https://github.com/sarabuc/SayCookBook/wiki/Team
 [userManualLink]:https://github.com/sarabuc/SayCookBook/wiki/User-Manual
 [Presentation]:https://docs.google.com/presentation/d/17U3g7VM-Vy3PTh3-c0nINm0Vazk34uqlvkU23dCqSSM
-[logo]:https://drive.google.com/open?id=0ByHOqcCCD6PGRmNHS0ZXUHNieVE
+[logo]:https://drive.google.com/drive/folders/0B8jE9HQ0g6YpbWJMTlFYS1V5RUk
 [Project Idea]:https://docs.google.com/document/d/11GPibf9tU2k6JE-L0ewWUYaHQml9c8q_3oMHle6PNQU
 [Project Inception]:https://github.com/sarabuc/SayCookBook/wiki/Project-Inception
 [planning]:https://github.com/sarabuc/SayCookBook/wiki/planning
