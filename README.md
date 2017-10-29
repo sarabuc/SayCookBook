@@ -36,7 +36,7 @@
   -[Team][teamLink] 
 
 
-  -[our planning][planning]
+  -[Our Planning][planning]
   
   * [SRS - requirements]
   * [SDS - Documetns]
