@@ -37,7 +37,8 @@
 
 
   -[our planning][planning]
-[SRS - requirements]
+  
+  * [SRS - requirements]
 
 
 
