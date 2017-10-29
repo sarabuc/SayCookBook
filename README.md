@@ -25,16 +25,21 @@
 [הצעת פרוייקט][slides3]
 
 
--[User Manual][userManualLink] 
-
-
--[Team][teamLink] 
-
-
--[our planning][planning]
-
-
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jce-il/SayCookBook)
+
+
+---our pages:
+
+  -[User Manual][userManualLink] 
+
+
+  -[Team][teamLink] 
+
+
+  -[our planning][planning]
+
+
+
 
 -[עוד על הפרוייקט][report]
 
