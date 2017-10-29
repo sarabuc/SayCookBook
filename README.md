@@ -39,7 +39,7 @@
   -[our planning][planning]
   
   * [SRS - requirements]
-
+  * [SDS - Documetns]
 
 
 -[עוד על הפרוייקט][report]
@@ -58,3 +58,4 @@
 [planning]:https://github.com/sarabuc/SayCookBook/wiki/planning
 [link]:https://github.com/sarabuc/SayCookBook/issues
 [SRS - requirements]:https://github.com/sarabuc/SayCookBook/wiki/SRS---requirements
+[SDS - Documetns]:https://github.com/sarabuc/SayCookBook/wiki/SDS---Documetns
