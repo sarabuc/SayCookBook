@@ -31,13 +31,13 @@ And you'll know how to move on
   -[Team][teamLink] 
 
 
-  [Project Documents][planning]
+  [Project Documents]
   
   * [Project Idea] ([Presentation])
   * [Project Inception]
   * [SRS - requirements]
   * [SDS - Documetns]
-
+[planning]
 
 
 Our project is developed as part of the Azrieli College Software Engineering course
