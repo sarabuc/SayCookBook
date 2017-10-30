@@ -2,23 +2,23 @@
 
 ![logo1](https://github.com/sarabuc/SayCookBook/blob/master/Say%20CookBook%20logo.png)
 
-התאבון שלנו הוא לפתח לכם אפליקציה שתעורר לכם את התאבון ותרוצו להכין את המתכון
+Our appetite is to develop an application that will give you an appetite and you will want to prepare the recipe
 
 
-אנחנו מפתחות פרויקט שיהפוך לאפליקציה השימושית ביותר לכל חובבי הבישול שביננו. 
-  תמיד באמצע האפיה כשהידיים בפעולה, רטובות או אוחזות במוצרי האפיה כשאנו רוצים לבדוק
-איך להמשיך הלאה במתכון אנחנו מתעצבנים.
-הנה הפתרון שלנו
+We are developing a project that becomes the most useful application for all the cooking enthusiasts among us.
+Always in the middle of baking when your hands are in action, wet or holding baking products. When we want to check how to move on in the recipe, we get angry.
 
-"פשוט להגיד: "המוצר הבא
-והנה נדע איך להתקדם הלאה
+Here's our solution:
+
+Just say: "Next product" -
+And you'll know how to move on
 
 
 #---links of our project---
 
 
 
-[מערכת ניהול משימות][link]
+[Task Management System][link]
 
 
 
@@ -40,8 +40,8 @@
 
 
 
-הפרויקט שלנו מפותח במסגרת קורס הנדסת תכנה מכללת עזריאלי
- [תוכן הקורס][slides0] 
+Our project is developed as part of the Azrieli College Software Engineering course
+ [Course content][slides0] 
  
 <!-- links go here -->
 [slides0]:https://github.com/jce-il/se-class-materials
