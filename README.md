@@ -31,10 +31,10 @@ And you'll know how to move on
   -[Team][teamLink] 
 
 
-  [Project Documents]
+  Project Documents
   
   * [Project Idea] ([Presentation])
-  * [Project Inception]
+  * [Project Inception/planning]
   * [SRS - requirements]
   * [SDS - Documetns]
 [planning]
