@@ -1,3 +1,6 @@
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jce-il/SayCookBook)
+
 # SayCookBook
 
 ![logo1](https://github.com/sarabuc/SayCookBook/blob/master/Say%20CookBook%20logo.png)
@@ -18,17 +21,14 @@ And you'll know how to move on
 
 
 
-[Task Management System][link]
+  #[Task Management System][link]
 
 
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jce-il/SayCookBook)
+  [User Manual][userManualLink] 
 
 
-  -[User Manual][userManualLink] 
-
-
-  -[Team][teamLink] 
+  [Team][teamLink] 
 
 
   Project Documents
