@@ -21,14 +21,13 @@ And you'll know how to move on
 
 
 
-  #[Task Management System][link]
+  ### [Task Management System][link]
 
 
+  ### [User Manual][userManualLink] 
 
-  [User Manual][userManualLink] 
 
-
-  [Team][teamLink] 
+  ### [Team][teamLink] 
 
 
   Project Documents
