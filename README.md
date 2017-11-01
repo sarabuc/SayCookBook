@@ -27,7 +27,7 @@ And you'll know how to move on
   ### [User Manual][userManualLink] 
 
 
-  ### [Team][teamLink] 
+  ### [Team page][teamLink] 
 
 
   Project Documents
