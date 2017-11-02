@@ -40,11 +40,11 @@ And you'll know how to move on
   
   
   ### Iteration Pages
-- [Iteration 0 - ZFR]()
-- [Iteration 1 - MVP]()
-- [Iteration 2 - Feature X]()
-- [Iteration 3 - Feature Y]()
-- [Iteration 4 - Feature Z]()
+- [Iteration 0 - ]()
+- [Iteration 1 - ]()
+- [Iteration 2 - ]()
+- [Iteration 3 - ]()
+- [Iteration 4 - ]()
 
 
 
