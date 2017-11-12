@@ -1,5 +1,5 @@
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jce-il/SayCookBook)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SayCookBook/Lobby)
 [![GitHub issues](https://img.shields.io/github/issues/jce-il/SayCookBook.svg?style=flat)](https://github.com/sarabuc/SayCookBook/issues)
 
 # SayCookBook
