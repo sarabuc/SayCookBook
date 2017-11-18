@@ -37,6 +37,7 @@ And you'll know how to move on
   * [Project Inception/planning]
   * [SRS - requirements]
   * [SDS - Documetns]
+  * [Board]
   
   
   ### Iteration Pages
@@ -63,3 +64,4 @@ Our project is developed as part of the Azrieli College Software Engineering cou
 [link]:https://github.com/sarabuc/SayCookBook/issues
 [SRS - requirements]:https://github.com/sarabuc/SayCookBook/wiki/SRS---requirements
 [SDS - Documetns]:https://github.com/sarabuc/SayCookBook/wiki/SDS---Documetns
+[Board]: https://github.com/sarabuc/SayCookBook/projects/1
