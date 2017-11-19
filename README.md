@@ -68,4 +68,4 @@ Our project is developed as part of the Azrieli College Software Engineering cou
 [SRS - requirements]:https://github.com/sarabuc/SayCookBook/wiki/SRS---requirements
 [SDS - Documetns]:https://github.com/sarabuc/SayCookBook/wiki/SDS---Documetns
 [Board]: https://github.com/sarabuc/SayCookBook/projects/1
-[develop-link] : https://github.com/sarabuc/SayCookBook/wiki/development-manual
+[develop-link]: https://github.com/sarabuc/SayCookBook/wiki/development-manual
