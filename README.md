@@ -46,8 +46,8 @@ And you'll know how to move on
   ### Iteration Pages
 - [Iteration 0 - ZFR ](https://github.com/sarabuc/SayCookBook/wiki/ZFR)
 - [Iteration 1 - MVP](https://github.com/sarabuc/SayCookBook/wiki/Iteration-1--MVP)
-- [Iteration 2] (https://github.com/sarabuc/SayCookBook/wiki/iteration-2)
-- [Iteration 3] (https://github.com/sarabuc/SayCookBook/wiki/iteration-3)
+- [Iteration 2](https://github.com/sarabuc/SayCookBook/wiki/iteration-2)
+- [Iteration 3](https://github.com/sarabuc/SayCookBook/wiki/iteration-3)
 - [Iteration 4]()
 
 
