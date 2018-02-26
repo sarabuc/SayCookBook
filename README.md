@@ -58,7 +58,7 @@ Our project is developed as part of the Azrieli College Software Engineering cou
 <!-- links go here -->
 [slides0]:https://github.com/jce-il/se-class-materials
 [teamLink]:https://github.com/sarabuc/SayCookBook/wiki/Team
-[userManualLink]:https://github.com/sarabuc/SayCookBook/wiki/User-Manual
+[userManualLink]:https://github.com/sarabuc/SayCookBook/wiki/User-manual----Help
 [Presentation]:https://docs.google.com/presentation/d/17U3g7VM-Vy3PTh3-c0nINm0Vazk34uqlvkU23dCqSSM
 [logo]:https://drive.google.com/drive/folders/0B8jE9HQ0g6YpbWJMTlFYS1V5RUk
 [Project Idea]:https://docs.google.com/document/d/11GPibf9tU2k6JE-L0ewWUYaHQml9c8q_3oMHle6PNQU
